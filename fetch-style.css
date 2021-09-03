@@ -1,0 +1,98 @@
+/* Styling Body */
+
+body {
+    background-image: url('images/xemployers-graphics-cogs-hr-packages-medium-gray.jpg.pagespeed.ic.PvUpZ3obSw.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* Styling  Get Data Buttons */
+
+#getDataButton {
+    width: 100px;
+    height: 45px;
+    padding: 5px;
+    margin: 10px 10px 5px 0;
+    border: solid 5px greenyellow;
+    border-radius: 5px;
+    background-color: white;
+    color: grey;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#getDataButton:hover {
+    border: solid 5px white;
+    background-color: greenyellow;
+}
+
+
+/* Styling Get List Button */
+
+#getListButton {
+    width: 100px;
+    height: 45px;
+    padding: 5px;
+    margin: 10px 10px 5px 0;
+    border: solid 5px greenyellow;
+    border-radius: 5px;
+    background-color: white;
+    color: grey;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#getListButton:hover {
+    border: solid 5px white;
+    background-color: greenyellow;
+}
+
+
+/* Styling Inputs */
+
+input {
+    height: 40px;
+    border: solid 3px greenyellow;
+    border-radius: 5px;
+    background-color: white;
+    color: gray;
+}
+
+
+/* Styling Submit Button */
+
+#submitForm {
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    border: solid 5px green;
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+}
+
+#submitForm:hover {
+    background-color: green;
+    border: solid 5px greenyellow;
+    color: white;
+}
+
+
+/* Styling output text */
+
+#outputText {
+    background-color: rgba(255, 255, 255, 0.73);
+    color: gray;
+    width: 280px;
+    border: solid 5px greenyellow;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+
+ul {
+    display: inline-block;
+}
